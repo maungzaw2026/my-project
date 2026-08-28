@@ -3,3 +3,9 @@ aiohttp
 opencv-python
 ddddocr
 numpy
+requests
+beautifulsoup4
+selenium
+pandas
+flask
+openpyxl
